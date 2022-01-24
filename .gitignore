@@ -112,3 +112,6 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+1_docker_sql/ny_taxi_postgres_data/
+*.csv
+*.exe
