@@ -112,6 +112,16 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
-1_docker_sql/ny_taxi_postgres_data/
+week_1_basics_n_setup/1_docker_sql/ny_taxi_postgres_data/
 *.csv
 *.exe
+1_terraform_gcp/dev-readonly-ny-taxi-de-zoomcamp-89124b2564c9.json
+1_terraform_gcp/dev-admin-ny-taxi-de-zoomcamp-67d4c926821b.json
+week_2_data_ingestion/airflow/logs/scheduler/latest
+week_2_data_ingestion/airflow/logs
+week_2_data_ingestion/airflow/plugins
+week_1_basics_n_setup/1_terraform_gcp/dev-readonly-ny-taxi-de-zoomcamp-89124b2564c9.json
+week_1_basics_n_setup/1_terraform_gcp/terraform/.terraform-version
+*.hcl
+*.tfstate
+*.backup
