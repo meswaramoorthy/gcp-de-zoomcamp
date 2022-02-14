@@ -125,3 +125,4 @@ week_1_basics_n_setup/1_terraform_gcp/terraform/.terraform-version
 *.hcl
 *.tfstate
 *.backup
+week_3_data_warehouse/airflow/logs/scheduler/latest
